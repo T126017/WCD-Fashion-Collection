@@ -217,7 +217,7 @@ LAYOUT
 /* SHOP INFO */
 .shop{
     background: url('../img/bg-shop.jpg') no-repeat center top / cover;
-    margin-top:relative;
+    margin-top:16rem;
     position:relative;
     height:40rem;
 }

@@ -11,7 +11,7 @@ window.addEventListener('load',() =>{
     },
     {
       duration: 2000,
-      dalay: 1200,
+      delay: 1200,
       easing:'ease',
       fill:'forwards',
     }
